@@ -2,45 +2,42 @@
 
 ## 👩‍💻 About Me
 
-I'm a Business Analyst with a background in Finance and Business Analytics, currently transitioning into Front-End Development.
-
-I enjoy building software that solves business problems through automation, analytics, and modern web technologies.
+I'm a Business Analyst with a background in Finance and Business Analytics who enjoys building software that solves real business problems. I'm currently expanding my skills in modern web development while creating projects that combine analytics, automation, and intuitive user experiences.
 
 ---
 
-## 🚀 Currently Learning
-
+## 🚀 Languages
 - HTML
 - CSS
 - JavaScript
-- React
 - TypeScript
-
----
-
-## 🛠️ Tech Stack
-
 - Python
 - SQL
+
+---
+
+## 🌐 Frameworks
+- React
+- Tailwind CSS
+- Vite
+
+---
+
+## 🛠️ Tools
+- Git
+- Github
 - Power BI
-- Git & GitHub
-- HTML & CSS
+- VS Code
+- Juypter Notebook
 
 ---
 
-## 📂 Current Projects
+## 🌱 What I'm Working On
 
-- 🌐 Portfolio Website
-- 🚀 FlowForge *(Coming Soon)*
-
----
-
-## 🎯 Goals for 2026
-
-- Build a portfolio of full-stack applications
-- Master React & TypeScript
-- Contribute to open-source projects
-- Land a software development role
+- Completing the Scrimba Frontend Developer Career Path
+- Building FlowForge
+- Learning React & TypeScript
+- Expanding my portfolio with real-world projects
 
 ---
 
